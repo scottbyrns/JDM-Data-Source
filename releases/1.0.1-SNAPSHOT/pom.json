@@ -4,21 +4,16 @@
     "groupId": "com.scottbyrns.widgets.jdm.repo",
     "artifactId": "DataSource",
     "version": "1.0.1-SNAPSHOT",
-    "url": "http://scottbyrns.com",
-    "scm": "",
-    "issueTracking": "",
+    "url": "https://github.com/scottbyrns/JDM-Data-Source",
+    "scm": "https://github.com/scottbyrns/JDM-Data-Source",
+    "issueTracking": ".",
     "developers": [
         {}
     ],
     "sources": [
-        "repo-data-source.js"
+        "repo-data-source.js",
+        "README.md"
     ],
-    "dependencies": [
-        {
-            "groupId": "com.scottbyrns",
-            "artifactId": "LiveWidgets",
-            "version": "1.0.1-SNAPSHOT"
-        }
-    ],
+    "dependencies": [],
     "configuration": {}
 }
